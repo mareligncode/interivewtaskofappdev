@@ -214,10 +214,7 @@ PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/appdivcrude
 
 
-2.
-const leader=["aebbe","kebede","alemu","deribie"]
-export const [name,age,gender,city]=leader
-export default{name,age,gender,city}
+
 
 
 
